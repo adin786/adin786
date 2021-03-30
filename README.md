@@ -15,7 +15,11 @@ I'm an MEng Mechanical Engineer with a software and data analytics specialism.  
 - Scikit-learn for model training, classification
 
 ### Titanic survivor prediction
-...
+Predicted survival status for passengers onboard the Titanic cruise ship.  Dataset from www.kaggle.com
+- Pandas and Seaborn for exploratory analysis
+- Engineered features from text data like title and deck number. Engineered numerical features like family_size, ticket_frequency
+- Trained, tuned and compared classifier models based on Logistic Regression, Decision Tree, and Random Forest
+- Best model gave cross validated accuracy of 0.826 and AUC of 0.880. 
 
 ### DIC strain mapping data processing
 Commercial project. I've written a toolkit of python scripts and modules to take multi-million row point-cloud data files, aligns them all to a global coordinate system and exports the data into formatted csv files for a commercial client.  The data comes from a DIC (digital image correlation) image based inspection system for measuring mechanical behaviour of deforming structures in large scale bending tests.
