@@ -14,20 +14,24 @@ Analysing 30 million MOT test records from GOV.uk, trying to extract some insigh
 - SQLite and Pandas for ETL, loading and sorting large dataset
 - Seaborn and Matplotlib for data visualisation and exploration
 - Scikit-learn for model training, classification
+- Libraries: SQLite, Pandas, Seaborn, Scikit-Learn
 
 ### Used car pricing
-Used autotrader data to model used car pricing and decide on a selling price for my Audi A6
+Modelled car pricing on Autotrader.co.uk to help decide on a selling price for my own Audi A6.
 - Wrote a webscraper to extract 1000 adverts
 - Analysed trends and extracted 11 features about the cars from each advert
 - Trained a model to predict advert price
-- Achieved r^2 of 0.97 and MAE of £961 on test data
+- Support vector model achieved r^2 of 0.97 and MAE of £961 on test data
+- Most important features were `age` and `mileage`
+- libraries: BeautifulSoup4, Pandas, Seaborn, Scikit-Learn
 
 ### Titanic survivor prediction
 Predicted survival status for passengers onboard the Titanic cruise ship.  Dataset from www.kaggle.com
 - Pandas and Seaborn for exploratory analysis
 - Engineered features from text data like title and deck number. Engineered numerical features like family_size, ticket_frequency
 - Trained, tuned and compared classifier models based on Logistic Regression, Decision Tree, and Random Forest
-- Best model gave cross validated accuracy of 0.826 and AUC of 0.880. 
+- Best model gave cross validation accuracy of 0.826 and AUC of 0.880.
+- Libraries: Pandas, Seaborn, Scikit-Learn
 
 ### DIC strain mapping data processing
 Commercial project. I've written a toolkit of python scripts and modules to take multi-million row point-cloud data files, aligns them all to a global coordinate system and exports the data into formatted csv files for a commercial client.  The data comes from a DIC (digital image correlation) image based inspection system for measuring mechanical behaviour of deforming structures in large scale bending tests.
