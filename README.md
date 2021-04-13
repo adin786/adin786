@@ -5,14 +5,22 @@ I'm an MEng Mechanical Engineer with a software and data analytics specialism.  
 |Project name|Links|
 |------------|-----|
 |MOT data analysis|([More detail](#mot-data-analysis)) / ([Link to repo](https://github.com/adin786/mot-data))|
+|Used car pricing|([More detail](#used-car-pricing)) / ([Link to repo](https://github.com/adin786/autotrader-analysis))
 |Titanic survivor prediction|([More detail](#titanic-survivor-prediction)) / ([Link to repo](https://github.com/adin786/ad-titanic))|
 |DIC strain mapping data processing|([More detail](#dic-strain-mapping-data-processing) / (private repo)|
 
 ### MOT data analysis
-*(In progress)* Analysing 30 million MOT test records from GOV.uk, trying to extract some insights and pick out trends about failure rates.  Tools I'm using: 
+Analysing 30 million MOT test records from GOV.uk, trying to extract some insights and pick out trends about failure rates.  Tools I'm using: 
 - SQLite and Pandas for ETL, loading and sorting large dataset
 - Seaborn and Matplotlib for data visualisation and exploration
 - Scikit-learn for model training, classification
+
+### Used car pricing
+Used autotrader data to model used car pricing and decide on a selling price for my Audi A6
+- Wrote a webscraper to extract 1000 adverts
+- Analysed trends and extracted 11 features about the cars from each advert
+- Trained a model to predict advert price
+- Achieved r^2 of 0.97 and MAE of £961 on test data
 
 ### Titanic survivor prediction
 Predicted survival status for passengers onboard the Titanic cruise ship.  Dataset from www.kaggle.com
