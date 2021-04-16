@@ -9,7 +9,9 @@ I'm an MEng Mechanical Engineer with a software and data analytics specialism.  
 |Titanic survivor prediction|([More detail](#titanic-survivor-prediction)) / ([Link to repo](https://github.com/adin786/ad-titanic))|
 |DIC strain mapping|([More detail](#dic-strain-mapping-data-processing)) / (private repo)|
 
-### MOT data analysis
+### MOT data analysis 
+<img src="images/mot-2.jpg" height=50><img src="https://github.com/adin786/mot-data/raw/main/images/testmileage_histplot.png" height=50><img src="https://github.com/adin786/mot-data/raw/main/images/pairplot_bymake.png" height=50>
+
 Analysing 30 million MOT test records from GOV.uk, trying to extract some insights and pick out trends about failure rates.  Tools I'm using: 
 - SQLite and Pandas for ETL, loading and sorting large dataset
 - Seaborn and Matplotlib for data visualisation and exploration
@@ -17,6 +19,8 @@ Analysing 30 million MOT test records from GOV.uk, trying to extract some insigh
 - Libraries: SQLite, Pandas, Seaborn, Scikit-Learn
 
 ### Used car pricing analysis
+<img src="images/used_cars2.jpg" height=50><img src="https://github.com/adin786/autotrader-analysis/raw/main/images/modelrev.png" height=50><img src="https://github.com/adin786/autotrader-analysis/raw/main/images/svr.png" height=50>
+
 Modelled car pricing on Autotrader.co.uk to help decide on a selling price for my own Audi A6.
 - Wrote a webscraper to extract 1000+ adverts
 - Analysed trends and extracted 11 features about the cars from each advert
@@ -25,6 +29,8 @@ Modelled car pricing on Autotrader.co.uk to help decide on a selling price for m
 - libraries: BeautifulSoup4, Pandas, Seaborn, Scikit-Learn
 
 ### Titanic survivor prediction
+<img src="images/Titanic2.jpg" height=50 alt="abc"><img src="https://github.com/adin786/ad-titanic/raw/main/images/titanic_ticketfreq_vs_survived.png" height=50><img src="https://github.com/adin786/ad-titanic/raw/main/images/titanic_deck_vs_survived.png" height=50><img src="https://github.com/adin786/ad-titanic/raw/main/images/titanic_logreg2_charts.png" height=50>
+
 Predicted survival status for passengers onboard the Titanic cruise ship.  Dataset from www.kaggle.com
 - Pandas and Seaborn for exploratory analysis
 - Engineered features from text data like title and deck number. Engineered numerical features like family_size, ticket_frequency
@@ -33,11 +39,10 @@ Predicted survival status for passengers onboard the Titanic cruise ship.  Datas
 - Libraries: Pandas, Seaborn, Scikit-Learn
 
 ### DIC strain mapping data processing
-Commercial project. I've written a toolkit of python scripts and modules to take multi-million row point-cloud data files, aligns them all to a global coordinate system and exports the data into formatted csv files for a commercial client.  The data comes from a DIC (digital image correlation) image based inspection system for measuring mechanical behaviour of deforming structures in large scale bending tests.
+Commercial project. I've written a toolkit of python scripts and modules to take multi-million row point-cloud data files, aligns them all to a global coordinate system and exports the data into formatted csv files for a commercial client.  The data comes from a DIC (digital image correlation) image based inspection system for measuring mechanical behaviour of deforming structures in large scale bending tests.  Inluded creating a GUI for data filtering and extraction
 
 ### Other software projects in MatLab and Python
 - Matlab GUI tool for data processing, visualisation and automation of Automotive ECU tuning
-- ...
 
 ### 🌱 I’m currently learning ...
 Data science, python, SQL, machine learning models, data transformation, mining and visualisation
