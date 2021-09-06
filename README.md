@@ -1,13 +1,21 @@
 # Azam Din (adin786)
-I'm an MEng Mechanical Engineer with a software and data analytics specialism.  I'm learning Data Science and machine learning skills to maximise my value as a numerical and analytical problem solver.  This Github is my place to document a few of my projects, develop good software development practises and hopefully build some stories around data!
+Hi, I’m a Data Scientist with an Product Development and Strategic analysis background. I hold a Masters degree in Mechanical Engineering and Aeronautics with a focus in numerical analysis and simulation. I have extensive experience in the automotive and energy sectors in product development, testing and strategic insight functions.
 
 ## 🔭 Project summary
 |Project name|Links|
 |------------|-----|
+|Job market analysis (NLP) | ([More detail](#jobs-analysis)) / ([Link to repo](https://github.com/adin786/jobs-analysis)) |
 |MOT data analysis|([More detail](#mot-data-analysis)) / ([Link to repo](https://github.com/adin786/mot-data))|
 |Used car pricing analysis|([More detail](#used-car-pricing-analysis)) / ([Link to repo](https://github.com/adin786/autotrader-analysis))
 |Titanic survivor prediction|([More detail](#titanic-survivor-prediction)) / ([Link to repo](https://github.com/adin786/ad-titanic))|
 |DIC strain mapping|([More detail](#dic-strain-mapping-data-processing)) / (private repo)|
+
+### Job market analysis 
+ I created and deployed an NLP job title classifier to automatically classify job titles based on the description text: 
+- Wrote a web-scraper to extract over 2000 job adverts from uk.indeed.com
+- Manually extracted “skill tags” for each role (Python, Cloud, Machine Learning etc).
+- Deployed the model as a web-app using StreamLit, allowing anyone to classify a job as ‘Data Scientist’, ‘Data Analyst’, or ‘Data Engineer’.
+- Libraries: Requests, BeautifulSoup4 Pandas NTLK Seaborn Scikit-learn Streamlit
 
 ### MOT data analysis 
 <img src="https://github.com/adin786/adin786/raw/main/images/mot-2.jpg" height=50><img src="https://github.com/adin786/mot-data/raw/main/images/testmileage_histplot.png" height=50><img src="https://github.com/adin786/mot-data/raw/main/images/pairplot_bymake.png" height=50>
