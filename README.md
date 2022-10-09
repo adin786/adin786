@@ -1,5 +1,39 @@
 # Azam Din (adin786)
-Hi, I’m a Data Scientist with an Product Development and Strategic analysis background. I hold a Masters degree in Mechanical Engineering and Aeronautics with a focus in numerical analysis and simulation. I have extensive experience in the automotive and energy sectors in product development, testing and strategic insight functions.
+
+Data Scientist currently working in commercial R&D for voice and conversational AI products.
+
+I lean towards the practical engineering, MLOps/infrastructure side of things.
+
+Past experience within Automotive and Test Engineering including data acquisition, fleet telematics, control systems and vehicle dynamics analysis.
+
+- *MEng Mechanical & Aerospace Engineering* from University of Strathclyde.
+- Glasgow-based.
+- Experienced with Mlflow, DVC
+- Interested in:
+  - Signal processing
+  - NLP
+  - MLOps
+  - Data Engineering 
+
+## Portfolio:
+My website below showcases some personal project highlights.  
+[https://adin786.github.io](https://adin786.github.io) 
+
+## Languages/Technologies 
+
+`Python` `Docker` `AWS` `Sagemaker` `GCP` `Databricks` `Matlab/Simulink` `linux` `Git` `Jupyter`
+
+## Python libraries 
+
+`Scikit-learn` `TensorFlow` `pytorch` `Mlflow` `DVC` `wandb` `airflow` `matplotlib` `plotly` `seaborn` `scipy` `pandas` `numpy` `spacy` `prodigy`
+
+
+<!--
+
+and Product Engineering. I hold a Masters degree in Mechanical Engineering and Aeronautics with a focus in numerical analysis and simulation. I have extensive experience in the automotive and energy sectors in product development, testing and strategic insight functions.
+
+
+- 
 
 ## 🔭 Project summary
 |Project name|Links|
@@ -59,7 +93,7 @@ Data science, python, SQL, machine learning models, data transformation, mining 
 [Github](https://github.com/adin786/)   /   [Linkedin](https://www.linkedin.com/in/azam-din/)   /   [Kaggle](https://www.kaggle.com/azamdin)
 
 
-
+-->
 
 
 
