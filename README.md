@@ -8,8 +8,8 @@ Past experience within Automotive and Test Engineering including data acquisitio
 - Glasgow based
 - Experienced with: Python, Mlflow, DVC, AWS, Spacy, Scikit-learn
 - Interested in: MLOps tooling, Data Engineering, NLP, forecasting 
-- [Portfolio website](https://adin786.github.io)  
-- [LinkedIn profile](https://linkedin.com/in/azamdin)
+
+[Portfolio website](https://adin786.github.io) | [LinkedIn](https://linkedin.com/in/azamdin)
 
 ## Languages/Technologies 
 
