@@ -1,11 +1,11 @@
 # Azam Din (adin786)
 
-Data Scientist currently working in commercial R&D for voice and conversational AI products.  Strong interest in tooling and engineering for MLOps/productionisation of machine learning products.
+Data Scientist currently working on **commercial R&D** in Sales Enablement productivity software. I develop Machine Learning systems for **voice and conversational AI (NLP)** productivity tools.  Strong interest in tooling and engineering for MLOps/productionisation of machine learning products.
 
-Past experience within Automotive and Test Engineering including data acquisition, fleet telematics, control systems and vehicle dynamics analysis.
+With a past career in Mechanical Engineering I have worked across **automotive** product development, **Oil&Gas** test engineering, **data acquisition**, **fleet telematics**, control systems, vehicle dynamics analysis, **data analysis tooling** and **reporting automation**.
 
-- MEng in Mechanical Engineering
 - Glasgow based
+- Specialist in ML Engineering, data preparation, deployment and tooling
 - Experienced with: Python, Mlflow, DVC, AWS, Spacy, Scikit-learn
 - Interested in: MLOps tooling, Data Engineering, NLP, forecasting 
 
