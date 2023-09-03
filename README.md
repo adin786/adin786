@@ -1,23 +1,37 @@
-# Azam Din (adin786)
+# adin786
 
-Data Scientist currently working on **commercial R&D** in Sales Enablement productivity software. I develop Machine Learning systems for **voice and conversational AI (NLP)** productivity tools.  Strong interest in tooling and engineering for MLOps/productionisation of machine learning products.
+## Who am I?
 
-With a past career in Mechanical Engineering I have worked across **automotive** product development, **Oil&Gas** test engineering, **data acquisition**, **fleet telematics**, control systems, vehicle dynamics analysis, **data analysis tooling** and **reporting automation**.
+Lead MLOps Engineer working in **finance industry**, building out an AWS-centric ML platform and custom tooling.
 
-- Glasgow based
-- Specialist in ML Engineering, data preparation, deployment and tooling
-- Experienced with: Python, Mlflow, DVC, AWS, Spacy, Scikit-learn
-- Interested in: MLOps tooling, Data Engineering, NLP, forecasting 
+Used to be a Data Scientist in commercial R&D for  a **Sales Enablement** start-up/scale-up.
+Specialised in **voice** and **conversational AI** products including applications of **LLMs**.
 
-[Portfolio website](https://adin786.github.io) | [LinkedIn](https://linkedin.com/in/azamdin)
+These days my interests are more in Data Engineering and tooling for MLOps/deployment.
 
-## Languages/Technologies 
+Started out as an MEng Mechanical Engineer so have past experience across Automotive and Energy industries.
 
-`Python` `Docker` `AWS` `Sagemaker` `GCP` `Databricks`  
-`Matlab/Simulink` `linux` `Git` `Jupyter` `SQL` `Pyspark`
+Always been tinkering with data things like data acquisition systems, fleet telematics, control systems and vehicle dynamics analysis.
 
-## Python libraries 
+## Interested in:
 
-`scikit-learn` `tensorFlow` `pytorch` `mlflow` `dvc` `wandb`  
-`airflow` `matplotlib` `plotly` `seaborn` `scipy` `pandas`  
-`numpy` `spacy` `prodigy` `librosa` `dask`
+MLOps, Data Engineering, tooling, model lifecycle, NLP, LLMs, embeddings... 
+
+---
+
+## Links:
+
+- Portfolio website &rarr; [adin786.github.io](https://adin786.github.io) 
+- Linkendin &rarr; [linkedin.com/in/azamdin](https://linkedin.com/in/azamdin)
+
+## Languages / Tech:
+
+`Python` `Docker` `AWS` `Sagemaker` `GCP` `Databricks` `Bash` `Git` `Jupyter` `Terraform` `Airflow`
+
+## AWS stack:
+
+`Glue` `Sagemaker` `Step Functions` `CDK/Cloudformation` `ECS/Fargate` `Lambda` `Cloudwatch` `Eventbridge`
+
+## Python libraries:
+
+`Scikit-learn` `Pytorch` `Mlflow` `DVC` `Wandb` `Airflow` `Plotly` `Streamlit` `Pandas` `Pyspark` `Spacy` `Sentence-transformers` `Bertopic` `Langchain` `Llamaindex`
